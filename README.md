@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Our project had the goal of analysing Louise's data set to understand what charcateristics help projects succeed and get the funding they need, and which ones don't. More specifically, our client wans to know how the different campaigns did in relation to two main factors: launch dates and funding goals.
+Our project had the goal of analysing Louise's data set to understand what characteristics help projects succeed and get the funding they need, and which ones don't. More specifically, our client wans to know how the different campaigns did in relation to two main factors: launch dates and funding goals.
 ### Purpose
 Our purpose is to analyze the data and bring our insights to our client, in order for her to make better future decisions in regards to when to start funding and how much money to ask for future endeavours. 
 
